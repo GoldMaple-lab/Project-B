@@ -26,7 +26,7 @@ export default function Navbar({ setPage }) {
             className="flex-shrink-0 flex items-center cursor-pointer active:opacity-70 transition"
             onClick={() => setPage('home')}
           >
-            <span className="text-xl sm:text-3xl font-extrabold text-green-500 tracking-tight">EngDuo</span>
+            <span className="text-xl sm:text-3xl font-extrabold text-green-500 tracking-tight">English Dream</span>
             <BookOpen className="w-5 h-5 sm:w-8 sm:h-8 text-green-500 ml-1 sm:ml-2" />
           </div>
           
