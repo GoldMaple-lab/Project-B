@@ -23,7 +23,7 @@ export default function Navbar({ setPage }) {
             className="flex-shrink-0 flex items-center cursor-pointer"
             onClick={() => setPage('home')}
           >
-            <span className="text-3xl font-bold text-green-500">EngDuo</span>
+            <span className="text-3xl font-bold text-green-500">English Dream</span>
             <BookOpen className="w-8 h-8 text-green-500 ml-2" />
           </div>
           
